@@ -48,6 +48,7 @@ INSERT INTO `login` (`email`, `password`, `name`, `mobile`) VALUES
 ('emmanuel@gmail.com', '12345', 'emmanuel', 244405055),
 ('emmanuel@gmail.com', '12345', 'emmanuel', 244405055);
 ('natteychristopher@gmail.com','12345','christopher',244405055);
+('mike@gmail.com', '12345', 'Michael', 249520871 )
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
